@@ -12,7 +12,7 @@ const about = {
 
   description:
     'A CSE graduate passionate about computer networking and computer hardware, seeking to pursue a challenging career and be part of a progressive organization that provides opportunities to enhance my knowledge and utilize my skills for the growth of the organization.',
-  resume: 'portfolio/public/Files/Rafsun Siddique CV.pdf',
+  resume: 'public/Files/Rafsun Siddique CV.pdf',
   social: {
     linkedin: 'http://www.linkedin.com/in/rafsun-siddique-72b614346',
     github: 'https://github.com/Rafsun7892',
