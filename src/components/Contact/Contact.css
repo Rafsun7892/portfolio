@@ -1,0 +1,22 @@
+.contact {
+  flex-direction: column;
+}
+
+.contact__buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.contact__buttons .btn {
+  min-width: 120px;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .contact__buttons {
+    flex-direction: column;
+  }
+}
